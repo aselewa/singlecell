@@ -5,6 +5,8 @@
 The conda environment I use for data science and single-cell analysis is in `environment.yaml` for reference. This environment has all the tools you need to run the notebook.
 
 `conda env create -f environment.yaml`
+
 `conda activate datascience`
+
 `jupyter lab`
 
