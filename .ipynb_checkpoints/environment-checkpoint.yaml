@@ -1,0 +1,18 @@
+name: datascience
+channels:
+    - conda-forge
+    - bioconda
+    - defaults
+dependencies:
+    - python=3.6
+    - matplotlib
+    - numpy
+    - pandas
+    - matplotlib
+    - seaborn
+    - jupyter
+    - ipykernel
+    - scikit-learn
+    - statsmodels
+    - snakemake
+    - scanpy
